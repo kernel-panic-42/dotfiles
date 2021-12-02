@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sudo apt install dkms libdrm-dev -y
+sudo ./displaylink-driver-5.4.1-55.174.run
+

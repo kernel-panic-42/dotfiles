@@ -1,0 +1,20 @@
+
+#### update and upgrade
+sudo apt update && sudo apt upgrade -y
+
+#### system
+sudo apt install font-manager numlockx preload bzip2 gnome-tweaks gzip unzip -y
+
+
+### fonts
+sudo apt install fonts-firacode -y
+
+
+
+
+
+
+
+
+
+

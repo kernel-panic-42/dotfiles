@@ -1,0 +1,12 @@
+
+#### developer tools
+sudo apt install build-essential manpages-dev git-all curl libncurses-dev libncursesw6 vim sasm snapd -y 
+
+#### NVM  (https://github.com/nvm-sh/nvm#installing-and-updating)
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+
+#### VSCode
+sudo snap install code --classic
+
+
+
